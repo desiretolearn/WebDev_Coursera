@@ -63,5 +63,9 @@
         }
     }
     
-    @media(max-width:767px) {}
+    @media(max-width:767px) {
+        .col-md-12 {
+            width: 100%;
+        }
+    }
     
