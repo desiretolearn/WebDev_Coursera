@@ -45,7 +45,7 @@ body {
     text-align: center;
 }
 
-#nav-list a:hover {
+#nav-list a:hover, #nav-list a:focus {
     background: #f6b319;
     color: #61122f;
 }
