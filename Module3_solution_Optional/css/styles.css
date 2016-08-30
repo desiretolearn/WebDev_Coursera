@@ -62,7 +62,7 @@ body {
 
 #main-content {
     color: #61122f;
-    height: 1000px;
+    height: 700px;
     width: 100%;
 }
 
@@ -79,6 +79,16 @@ body {
     margin-top: 15px;
 }
 
+.item-content div {
+    margin-bottom: 10px;
+}
+
+.item-content div a {
+    color: #f6b319;
+    font-weight: bold;
+    font-style: italic;
+}
+
 
 /* Media Query */
 
@@ -92,9 +102,5 @@ body {
     }
     #menu-title {
         margin-top: 0px;
-    }
-    .item-content {
-        margin-left: 20px;
-        margin-right: 20px;
     }
 }
